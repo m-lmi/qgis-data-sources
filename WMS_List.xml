@@ -1,0 +1,28 @@
+<!DOCTYPE connections>
+<qgsWMSConnections version="1.0">
+    <wms name="ABDS CAFF WMS" url="https://geo.abds.is/geoserver/ows?version=1.3.0"/>
+    <wms name="Alþingis WMS" url="https://gis.is/geoserver/althingi/wms?request=getcapabilities"/>
+    <wms name="Byggðastofnunar WMS" url="https://thjonustukort.is/geoserver/wms"/>
+    <wms name="ECMWF WMS" url="https://eccharts.ecmwf.int/wms/?token=public&amp;request=GetCapabilities&amp;version=1.3.0"/>
+    <wms name="Emodnet WMS" url="https://ows.emodnet-humanactivities.eu/geoserver/gwc/service/wmts?REQUEST=GetCapabilities&amp;SERVICE=WMTS&amp;VERSION=1.0.0"/>
+    <wms name="Ferðamálastofu WMS" url="https://gis.is/geoserver/ferdamalastofa/wms"/>
+    <wms name="Fjarskiptastofa WMS" url="https://gis.lmi.is/geoserver/fjarskiptastofa/wms"/>
+    <wms name="Fiskistofu WMS" url="https://gis.is/geoserver/fiskistofa/wms?request=getcapabilities"/>
+    <wms name="HMS WMS" url="http://gis.fasteignaskra.is/geoserver/wms?request=getcapabilities"/>
+    <wms name="Hafrannsóknastofnunar WMS" url="https://gis.hafogvatn.is/geoserver/wms?request=getcapabilities"/>
+    <wms name="Hagstofunnar WMS" url="https://gis.is/geoserver/Hagstofan/wms"/>
+    <wms name="LBHI WMS" url="https://gis.is/geoserver/lbhi/wms?request=getcapabilities"/>
+    <wms name="Landhelgisgæslun Íslands WMS" url="https://gis.is/geoserver/LHG/wms?request=getcapabilities"/>
+    <wms name="MAST WMS" url="https://geoserver.mast.is/geoserver/wms?request=getcapabilities"/>
+    <wms name="Minjastofnunar WMS" url="https://gis.is/geoserver/Minjastofnun/wms"/>
+    <wms name="Náttúrufræðistofnun WMS" url="https://gis.natt.is/geoserver/wms"/>
+    <wms name="Orkustofnun WMS" url="https://gis.is/geoserver/orkustofnun/wms?request=GetCapabilities"/>
+    <wms name="Skógræktarinnar WMS" url="https://gis.is/geoserver/skograektin/wms"/>
+    <wms name="Umhverfisstofnun WMS" url="https://gis.ust.is/geoserver/wms"/>
+    <wms name="Vatnajökulsþjóðgarðs WMS" url="https://gis.is/geoserver/vjp/wms"/>
+    <wms name="Vegagerðarinnar WMS" url="http://gagnaveita.vegagerdin.is/geoserver/gis/wms?request=getcapabilities"/>
+    <wms name="Veðurstofu Íslands WMS" url="https://geo.vedur.is/geoserver/wms?REQUEST=GetCapabilities"/>
+    <wms name="f4x4 WMS" url="https://safneyrar.lmi.is/geoserver/f4x4/wms?version=1.1.0"/>
+    <wms name="NASA GIBS WMS" url="https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi"/>
+    <wms name="EUMETSAT WMS" url="https://view.eumetsat.int/geoserver/wms?version=1.3.0"/>
+</qgsWMSConnections>
