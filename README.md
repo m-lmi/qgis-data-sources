@@ -105,15 +105,19 @@ Each service includes its endpoint and a brief description of the available laye
 
 ## Usage Instructions
 
-To use these services in your web or GIS application, follow these steps:
+To use these services XML lists in your web or GIS application, follow these steps:
 
-1. **Choose a Service**: Select a service from the list, depending on whether you need raster imagery (WMS/WMTS/XYZ) or vector features (WFS/REST/CSW).
-
-2. **Add to Mapping Application**:
-   - In **Leaflet/OpenLayers**, use the appropriate URL to add the service as a layer.
-   - In **QGIS**, you can add the service by entering the provided URL in the respective tool for adding web services or by directly downloading the specific XML and importing it into QGIS.
-
-3. **Explore the Data**: Once the service is added, you can explore the map data in your application, use it for analysis, or visualize it in combination with other datasets.
+1. **Download the WMS_List.xml**: Download the wished file.
+2. **Open QGIS and Data Source Manager**: Select the Data Source Manager in QGIS.\
+   ![Screenshot 2024-10-23 074627](https://github.com/user-attachments/assets/6012f712-f4cb-444c-8625-d8217c10d491)
+3. **Load the XML Service List**: Load the downloaded .xml file into Data Source Manager.\
+  ![Screenshot 2024-10-23 073441](https://github.com/user-attachments/assets/09dbff4e-b879-44e4-b8a4-4fd2d16fa2d3)
+4. **Select Services**: Select the services you would like to add to your connections.\
+   ![Screenshot 2024-10-23 073534](https://github.com/user-attachments/assets/35a9234d-fcf2-4a85-bbe6-c100376ec6da)
+5. **Connect and select Layers**: Press connect and select the layers to add to your project. \
+  ![Screenshot 2024-10-23 073602](https://github.com/user-attachments/assets/eb3caebd-6237-44ab-8f3b-a713bea081d1)
+6. **Add them to the map**: Drag and drop or Add Layer to your map.\
+  ![Screenshot 2024-10-23 073820](https://github.com/user-attachments/assets/078291de-0cc0-426e-8630-2a5d3adba142)
 
 Feel free to contribute to this repository by adding new public connections or updating existing ones.
 
