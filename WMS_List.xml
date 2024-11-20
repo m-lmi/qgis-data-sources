@@ -25,4 +25,5 @@
     <wms name="f4x4 WMS" url="https://safneyrar.lmi.is/geoserver/f4x4/wms?version=1.1.0"/>
     <wms name="NASA GIBS WMS" url="https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi"/>
     <wms name="EUMETSAT WMS" url="https://view.eumetsat.int/geoserver/wms?version=1.3.0"/>
+    <wms name="Sjókort WMS" url="https://gis.natt.is/mapcache/sjokort/web-mercator/wms?request=GetCapabilities"/>
 </qgsWMSConnections>
